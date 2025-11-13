@@ -49,6 +49,7 @@ CompetiQuest/
 │       │   ├── dashboard/           # User dashboard
 │       │   ├── profile/             # User profile management
 │       │   ├── quiz/                # Quiz interface
+|       |   ├── mentalMaths          # mental math
 │       │   └── [category]/...       # Dynamic category navigation
 │       ├── components/              # Reusable React components
 │       │   ├── auth/                # Authentication components
@@ -101,6 +102,9 @@ Comprehensive test coverage with unit and integration tests. Includes:
 - Integration tests for complete workflows
 - Authentication, question management, and quiz functionality testing
 
+### Mental Math 
+- Mental Math includes quick arithmetic exercises—addition, subtraction, multiplication, and division—solved mentally without calculators.
+It helps improve speed, accuracy, and numerical reasoning skills.
 ## Key Features Implementation
 
 ### Practice Questions
